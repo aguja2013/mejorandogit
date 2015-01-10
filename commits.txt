@@ -1,0 +1,35 @@
+commit ca06ff5128f8492d93fc683fc46d1dca66d384b5
+Author: Agustin Palmieri <aguja13@hotmail.com>
+Date:   Fri Jan 9 19:52:41 2015 -0300
+
+    portfolio
+
+commit 4b7f9976aed7ff2c58da404545e4c5f044c19eb6
+Author: Agustin Palmieri <aguja13@hotmail.com>
+Date:   Fri Jan 9 19:43:49 2015 -0300
+
+    descripción
+
+commit ba8ad08c9f4946b1888d937a772fba3c03b9f678
+Author: Agustin Palmieri <aguja13@hotmail.com>
+Date:   Fri Jan 9 19:38:17 2015 -0300
+
+    links redes sociales
+
+commit 19808be1cad0619574500dc643698af085068d87
+Author: Agustin Palmieri <aguja13@hotmail.com>
+Date:   Fri Jan 9 19:30:18 2015 -0300
+
+    perfil web escrito
+
+commit 0a8a1cc4d197c98df02b56b6d81b256fc1fbc26e
+Author: Agustin Palmieri <aguja13@hotmail.com>
+Date:   Fri Jan 9 16:38:08 2015 -0300
+
+    avatar y nombre
+
+commit 5108543b605d82872e40ddf4dbc93de16a44254e
+Author: Agustin Palmieri <aguja13@hotmail.com>
+Date:   Fri Jan 9 11:09:45 2015 -0300
+
+    archivos base
